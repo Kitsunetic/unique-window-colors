@@ -3,5 +3,5 @@ node_modules
 .vscode-test/
 *.vsix
 asdf.html
-
+.vscode
 
