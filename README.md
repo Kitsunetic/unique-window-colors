@@ -1,3 +1,17 @@
+This is not original version of `unique-window-colors`.
+You can find it [here](http://www.kwangsiklee.com/2018/06/xgboost-%EC%82%AC%EC%9A%A9%EC%8B%9C-gpu-%EA%B0%80%EC%86%8D%ED%95%98%EA%B8%B0/).
+
+This version supports changing not only title-bar but status-bar and activity-bar.
+
+This version is not released on Vscode extensions.
+It's available to install manually from [here](https://github.com/Kitsunetic/unique-window-colors/releases/tag/11.0.50).
+
+```bash
+wget https://github.com/Kitsunetic/unique-window-colors/releases/download/11.0.50/unique-window-colors-11.0.50.vsix
+code --install-extension ./unique-window-colors-11.0.50.vsix
+# In Windows OS, running .vsix file directly is not work.
+```
+
 # Window Colors
 
 Uniquely and automatically colors each VSCode window.
